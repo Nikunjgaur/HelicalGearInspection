@@ -1,0 +1,9 @@
+# train and val data
+train: ../datasets/images/train/
+val: ../datasets/images/val/
+
+# number of classes
+nc: 3
+
+# class names
+names: ['SurfaceDefect','ChamferPresent','ChamferMiss']

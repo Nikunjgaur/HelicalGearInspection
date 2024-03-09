@@ -1,0 +1,4 @@
+1. open anaconda prompt
+2.paste:- D:\New folder\HelicalGearInspection\HelicalGearInspection\DeepLearningModule\yolov5_TeethDent\yolov5
+3.paste:- conda activate pytorch
+4.paste:- python DATASET_TRANING.py

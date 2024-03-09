@@ -1,0 +1,8 @@
+# train and val data
+train: ../datasets/images/train/
+val: ../datasets/images/val/
+
+# number of classes
+nc: 6
+# class names
+names: ['Handling dent','Root grinding','ChamferMiss','step grinding','Flank_unclean or Rust','Heat treatment dent']

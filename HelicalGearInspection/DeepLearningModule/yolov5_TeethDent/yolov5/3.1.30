@@ -1,0 +1,4 @@
+Requirement already satisfied: GitPython in c:\users\msi 1\appdata\local\programs\python\python36\lib\site-packages (3.1.18)
+Requirement already satisfied: typing-extensions>=3.7.4.0 in c:\users\msi 1\appdata\local\programs\python\python36\lib\site-packages (from GitPython) (3.7.4.3)
+Requirement already satisfied: gitdb<5,>=4.0.1 in c:\users\msi 1\appdata\local\programs\python\python36\lib\site-packages (from GitPython) (4.0.9)
+Requirement already satisfied: smmap<6,>=3.0.1 in c:\users\msi 1\appdata\local\programs\python\python36\lib\site-packages (from gitdb<5,>=4.0.1->GitPython) (5.0.0)

@@ -1,0 +1,221 @@
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\HelicalGearInspection.exe.config
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\HelicalGearInspection.exe
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\HelicalGearInspection.pdb
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Newtonsoft.Json.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\SpinnakerNET_v140.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Buffers.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Memory.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Newtonsoft.Json.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Buffers.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Memory.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Encodings.Web.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.AssemblyReference.cache
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.CustomControl.DefectControl.resources
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.CustomControl.DefectImageControl.resources
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Image_Data_Form.resources
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.CustomControl.StatusControl.resources
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Form1.resources
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.InspectionForm.resources
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.ModelSetup.resources
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.PLCDataForm.resources
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Properties.Resources.resources
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.GenerateResource.cache
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.CoreCompileInputs.cache
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.CopyComplete
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.exe
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.pdb
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Npgsql.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Collections.Immutable.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Json.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Channels.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.ValueTuple.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Npgsql.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Collections.Immutable.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Json.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Channels.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.ValueTuple.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.ReportForm.resources
+D:\New folder\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Selection_Model_Form.resources
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.Interfaces.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.System.Drawing.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.ComponentModel.Annotations.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ClosedXML.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\DocumentFormat.OpenXml.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ExcelNumberFormat.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Irony.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\SixLabors.Fonts.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.IO.Packaging.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\XLParser.dll
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ClosedXML.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\DocumentFormat.OpenXml.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ExcelNumberFormat.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\SixLabors.Fonts.xml
+D:\New folder\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.IO.Packaging.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\HelicalGearInspection.exe.config
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\HelicalGearInspection.exe
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\HelicalGearInspection.pdb
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ClosedXML.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\DocumentFormat.OpenXml.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.Interfaces.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.System.Drawing.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ExcelNumberFormat.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Irony.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Newtonsoft.Json.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Npgsql.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\SixLabors.Fonts.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\SpinnakerNET_v140.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Buffers.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Collections.Immutable.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.ComponentModel.Annotations.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.IO.Packaging.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Memory.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Numerics.Vectors.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Encodings.Web.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Json.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Channels.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.ValueTuple.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\XLParser.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ClosedXML.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\DocumentFormat.OpenXml.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ExcelNumberFormat.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Newtonsoft.Json.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Npgsql.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\SixLabors.Fonts.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Buffers.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Collections.Immutable.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.IO.Packaging.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Memory.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Numerics.Vectors.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Encodings.Web.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Json.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Channels.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.ValueTuple.xml
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.AssemblyReference.cache
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.CustomControl.DefectControl.resources
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.CustomControl.DefectImageControl.resources
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Image_Data_Form.resources
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.CustomControl.StatusControl.resources
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Form1.resources
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.InspectionForm.resources
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.ModelSetup.resources
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.PLCDataForm.resources
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Properties.Resources.resources
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.ReportForm.resources
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Selection_Model_Form.resources
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.GenerateResource.cache
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.CoreCompileInputs.cache
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalG.7A1EA32C.Up2Date
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.exe
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.pdb
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\S7.Net.dll
+E:\Software\HelicalGearInspection\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\S7.Net.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\HelicalGearInspection.exe.config
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\HelicalGearInspection.exe
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\HelicalGearInspection.pdb
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ClosedXML.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\DocumentFormat.OpenXml.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.Interfaces.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.System.Drawing.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ExcelNumberFormat.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Irony.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Npgsql.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\S7.Net.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\SixLabors.Fonts.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\SpinnakerNET_v140.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Buffers.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Collections.Immutable.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.ComponentModel.Annotations.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.IO.Packaging.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Memory.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Json.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Channels.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.ValueTuple.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\XLParser.dll
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ClosedXML.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\DocumentFormat.OpenXml.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\EPPlus.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\ExcelNumberFormat.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\Npgsql.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\S7.Net.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\SixLabors.Fonts.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Buffers.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Collections.Immutable.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.IO.Packaging.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Memory.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Encodings.Web.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Text.Json.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Channels.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\bin\x64\Debug\System.ValueTuple.xml
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.AssemblyReference.cache
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.SuggestedBindingRedirects.cache
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.CustomControl.DefectControl.resources
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.CustomControl.DefectImageControl.resources
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Image_Data_Form.resources
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.CustomControl.StatusControl.resources
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Form1.resources
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.InspectionForm.resources
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.ModelSetup.resources
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.PLCDataForm.resources
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Properties.Resources.resources
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.ReportForm.resources
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.Selection_Model_Form.resources
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.GenerateResource.cache
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.CoreCompileInputs.cache
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.csproj.CopyComplete
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.exe
+D:\Add Inno\Projects\HelicalGearInspection\HelicalGearInspection\obj\x64\Debug\HelicalGearInspection.pdb
